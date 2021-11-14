@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Class Notes/Programming assignments/C++/Dungeon Game/Combat/Actor.cpp
+Actor.h
+/cygdrive/d/Class Notes/Programming assignments/C++/Dungeon Game/Combat/Actor.h
+
+/cygdrive/d/Class Notes/Programming assignments/C++/Dungeon Game/Combat/Actor.h
+iostream
+-
+cstdlib
+-
+vector
+-
+string
+-
+cmath
+-
+
+/cygdrive/d/Class Notes/Programming assignments/C++/Dungeon Game/Combat/Combat.cpp
+Actor.cpp
+/cygdrive/d/Class Notes/Programming assignments/C++/Dungeon Game/Combat/Actor.cpp
+Skill.cpp
+/cygdrive/d/Class Notes/Programming assignments/C++/Dungeon Game/Combat/Skill.cpp
+
+/cygdrive/d/Class Notes/Programming assignments/C++/Dungeon Game/Combat/Skill.cpp
+Skill.h
+/cygdrive/d/Class Notes/Programming assignments/C++/Dungeon Game/Combat/Skill.h
+
+/cygdrive/d/Class Notes/Programming assignments/C++/Dungeon Game/Combat/Skill.h
+
+/cygdrive/d/Class Notes/Programming assignments/C++/Dungeon Game/temp_main.cpp
+Combat/Combat.cpp
+/cygdrive/d/Class Notes/Programming assignments/C++/Dungeon Game/Combat/Combat.cpp
+
